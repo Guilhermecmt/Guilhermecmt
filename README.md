@@ -65,4 +65,4 @@ in my projects:
 
 If you'd like to talk about a project or just say hi, you can email me at
 [guilherme@texasseguros.com](mailto:guilherme@texasseguros.com) or call me at
-+55&nbsp;71&nbsp;99128&#8209;3493.
++55&nbsp;71&nbsp;99128-3493.
