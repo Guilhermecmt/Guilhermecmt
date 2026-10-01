@@ -12,10 +12,12 @@ the way to the server it runs on, and that's usually how I work.
 
 ## What I've been building
 
-At **Grupo Texas** I've been working on **Mandey**, our own work-management platform. The
-company ran on monday.com, so we built a version we host ourselves, with boards, forms,
-automations, Gantt charts and an MCP server so AI agents can work with it too. It's a
-Next.js and NestJS monorepo with Prisma and Redis underneath. I also built the
+At **Grupo Texas** I created **Hermest**, a work-management platform shaped around the way
+the company actually operates. Boards, forms, automations, dashboards and Gantt charts live
+in one place, and an MCP server lets AI agents work with it too. The goal from day one was
+to cut fixed costs drastically by running on software we own and host ourselves instead of
+paying for subscriptions, and over the last few months that's exactly what it has been
+doing. Under the hood it's a Next.js and NestJS monorepo with Prisma and Redis. I also built the
 **Dashboards Hub**, which puts the commercial, commission and finance dashboards behind a
 single login, and **Compressor**, a FastAPI service that compresses and converts PDFs,
 images, Office documents and videos on our own servers, so nothing has to be sent to
