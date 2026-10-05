@@ -37,6 +37,10 @@ shows how much VRAM your GPU is using and frees the memory held by local LLMs wi
 click. [Nous-Webui](https://github.com/Guilhermecmt/Nous-Webui) is my take on a private,
 good-looking local AI setup, built on Ollama and Open WebUI.
 
+My personal projects have screenshots and write-ups on my portfolio, in Portuguese:
+**[guilhermecmt.github.io](https://guilhermecmt.github.io/)**. The code for most of them is
+private, but I'm happy to give access to anyone who wants to review it.
+
 ## Tools I work with
 
 Day to day I write mostly TypeScript and Python. These are the tools that keep showing up
