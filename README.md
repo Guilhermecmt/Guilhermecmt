@@ -11,7 +11,8 @@ our files before they go online. I like taking a project from the first database
 the way to the server it runs on, and that's usually how I work.
 
 **Portfolio:** [guilhermecmt.github.io](https://guilhermecmt.github.io/), in Portuguese, with
-screenshots and write-ups of my personal projects.
+screenshots and write-ups of my personal projects. Look around carefully: there may be an
+easter egg hidden somewhere in there. Or maybe a lot of them.
 
 ## What I've been building
 
