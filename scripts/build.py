@@ -42,6 +42,7 @@ STATUS = {
     "done": ("COMPLETE", "#a78bfa", False),
     "demo": ("LIVE DEMO", "#22c55e", True),
     "oss": ("OPEN SOURCE", "#a78bfa", False),
+    "public": ("PUBLIC REPO", "#86efac", False),
     "prod": ("IN PRODUCTION", "#22c55e", True),
 }
 
@@ -87,6 +88,11 @@ PROJECTS = [
          desc=["Watch your GPU's VRAM and free the memory held by", "local LLMs with a single click."],
          stats=[("80+", "models in the store"), ("3", "GPU vendors"), ("1", "click to free VRAM")],
          stack="Python · aiohttp · pywebview · Ollama", focus=0.0, contain=True),
+    dict(slug="xadrez-professor", title="Xadrez Professor", kicker="INTERACTIVE CHESS COURSE",
+         status="public", accent="#86c995",
+         desc=["Learn chess move by move with replay, guided", "explanations and a new position to solve."],
+         stats=[("30", "micro-lessons"), ("6", "learning modules"), ("1", "challenge per lesson")],
+         stack="JavaScript · CSS · chess.js · GitHub Pages", focus=0.35),
 ]
 
 WORK = [

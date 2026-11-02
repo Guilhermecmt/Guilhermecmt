@@ -40,6 +40,12 @@ Each card opens the full write-up, with screenshots, on my
   --><a href="https://guilhermecmt.github.io/projetos/rookgaard/#gh-light-mode-only"><img src="assets/cards/rookgaard-light.svg" alt="Rookgaard: Tibia-style 2D RPG in plain JavaScript and Canvas" width="49%" /></a> <a href="https://guilhermecmt.github.io/projetos/arteaqui/#gh-light-mode-only"><img src="assets/cards/arteaqui-light.svg" alt="ArteAqui: live map of the city's cultural events" width="49%" /></a>
 </p>
 
+<p align="center">
+  <a href="https://guilhermecmt.github.io/projetos/xadrez-professor/#gh-dark-mode-only"><img src="assets/cards/xadrez-professor-dark.svg" alt="Xadrez Professor: 30 interactive chess lessons with replay, explanations and practice" width="49%" /></a><!--
+  --><a href="https://guilhermecmt.github.io/projetos/xadrez-professor/#gh-light-mode-only"><img src="assets/cards/xadrez-professor-light.svg" alt="Xadrez Professor: 30 interactive chess lessons with replay, explanations and practice" width="49%" /></a>
+</p>
+<p align="center"><sub>Xadrez Professor: <a href="https://guilhermecmt.github.io/xadrez-professor/">try the course</a> · <a href="https://github.com/Guilhermecmt/xadrez-professor">view the public repository</a></sub></p>
+
 <sub>Most of these repositories are private. If you'd like to review the code of any of them, ask and I'll give you access.
 Academia dos Sábios is <a href="https://academia-dos-sabios-server.vercel.app">live here</a>.</sub>
 
