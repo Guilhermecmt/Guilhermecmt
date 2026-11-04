@@ -93,6 +93,11 @@ PROJECTS = [
          desc=["Learn chess move by move with replay, guided", "explanations and a new position to solve."],
          stats=[("30", "micro-lessons"), ("6", "learning modules"), ("1", "challenge per lesson")],
          stack="JavaScript · CSS · chess.js · GitHub Pages", focus=0.35),
+    dict(slug="gamemodz", title="GameModz", kicker="GAMING UTILITY · WINDOWS",
+         status="public", accent="#34d399",
+         desc=["Prepare Windows for gaming and restore your", "settings on exit, with recovery after a crash."],
+         stats=[("1.2", "current version"), ("Auto", "restore on exit"), ("0", "admin prompts")],
+         stack="PowerShell · C# · WPF · Windows API", focus=0.0, bundled_thumb=True),
 ]
 
 WORK = [
@@ -119,6 +124,11 @@ def make_thumbs() -> None:
     THUMBS.mkdir(parents=True, exist_ok=True)
     tw, th = 960, 440
     for p in PROJECTS:
+        if p.get("bundled_thumb"):
+            # This screenshot is bundled here; it does not come from the portfolio.
+            if not (THUMBS / f"{p['slug']}.jpg").is_file():
+                raise FileNotFoundError(f"Missing bundled thumbnail: {p['slug']}")
+            continue
         src = PORTFOLIO / p["slug"] / "capa.webp"
         im = Image.open(src).convert("RGB")
         if p.get("contain"):

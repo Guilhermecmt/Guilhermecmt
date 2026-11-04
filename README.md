@@ -54,6 +54,12 @@ Academia dos Sábios is <a href="https://academia-dos-sabios-server.vercel.app">
 ## ◆ Open source
 
 <p align="center">
+  <a href="https://github.com/Guilhermecmt/GameModz#gh-dark-mode-only"><img src="assets/cards/gamemodz-dark.svg" alt="GameModz: Windows gaming utility with automatic settings restoration and recovery after interruption" width="49%" /></a><!--
+  --><a href="https://github.com/Guilhermecmt/GameModz#gh-light-mode-only"><img src="assets/cards/gamemodz-light.svg" alt="GameModz: Windows gaming utility with automatic settings restoration and recovery after interruption" width="49%" /></a>
+</p>
+<p align="center"><sub>GameModz: <a href="https://github.com/Guilhermecmt/GameModz#instalar">install for Windows</a> · automatic desktop shortcut · no administrator required</sub></p>
+
+<p align="center">
   <a href="https://github.com/Guilhermecmt/Nous-Webui#gh-dark-mode-only"><img src="assets/cards/nous-dark.svg" alt="Nous: a private, local AI setup built on Ollama and Open WebUI" width="49%" /></a> <a href="https://github.com/Guilhermecmt/HUB-LLM-LOCAL#gh-dark-mode-only"><img src="assets/cards/llm-hub-dark.svg" alt="LLM Hub: Windows tray app that shows VRAM use and frees memory held by local LLMs" width="49%" /></a><!--
   --><a href="https://github.com/Guilhermecmt/Nous-Webui#gh-light-mode-only"><img src="assets/cards/nous-light.svg" alt="Nous: a private, local AI setup built on Ollama and Open WebUI" width="49%" /></a> <a href="https://github.com/Guilhermecmt/HUB-LLM-LOCAL#gh-light-mode-only"><img src="assets/cards/llm-hub-light.svg" alt="LLM Hub: Windows tray app that shows VRAM use and frees memory held by local LLMs" width="49%" /></a>
 </p>
